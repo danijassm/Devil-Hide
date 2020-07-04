@@ -1,0 +1,9 @@
+
+    Command        Description
+    -------        -----------
+    eatpass        Remove device passcode.
+    install        Install an apk.
+    launch         Launch an application.
+    screenrec      Record device screen.
+    screenshot     Take device screenshot.
+    shell          Open device shell.
